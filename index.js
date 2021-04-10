@@ -26,4 +26,4 @@ bot.on("message", message => { // runs whenever a message is sent
     }
 });
 
-bot.login('ODI3MjMxMzY0NjY2NDkwOTUx.YGYBPg.oTL5rwsxSmGDYyP2ORTz_2ujvhE')
+bot.login(process.env.TOKEN)
