@@ -1,0 +1,10 @@
+{
+"name": "nitro bot",
+"version": "1.0.0",
+"description": "",
+"main": "index.js",
+"author": "natrix",
+"depedencies": {
+  "discord.js": "^12.3.1"
+  }
+}
