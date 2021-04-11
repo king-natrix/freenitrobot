@@ -12,7 +12,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "",
+  "author": "natrix",
   "license": "MIT"
   
 }
